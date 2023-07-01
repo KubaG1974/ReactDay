@@ -7,8 +7,8 @@ class App extends Component {
     super(props);
     this.state = {
       items: [
-        { name: 'Item 1', price: '$10' },
-        { name: 'Item 2', price: '$20' },
+        { name: 'Salmon', price: '$10' },
+        { name: 'Tuna', price: '$20' },
       ],
     };
   }
